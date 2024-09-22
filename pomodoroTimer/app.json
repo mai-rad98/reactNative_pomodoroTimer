@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "pomodoroTimer",
+    "scheme":"aora",
     "slug": "pomodoroTimer",
     "version": "1.0.0",
     "orientation": "portrait",
